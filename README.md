@@ -1,2 +1,2 @@
 # Quiz-Master
-Game ab out taking a quiz
+Game about taking a quiz
